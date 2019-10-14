@@ -1,0 +1,80 @@
+.header-text {
+    display: flex;
+    justify-content: start;
+}
+.header-icon {
+    display: flex;
+    justify-content: left;
+    align-items: flex-start;
+}
+.header {
+    border-style: double;
+}
+.button {
+    display: flex;
+    justify-content: left;
+}
+.list-img{
+    position: absolute;
+}
+.list {
+    z-index: 100;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-weight: bold;
+  left: 500px;
+  top: 1150px;
+}
+.list-2 {
+    z-index: 100;
+    position: absolute;
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+    left: 700px;
+    top: 1150px;
+}
+.header-icons {
+    display: inline;
+    z-index: 100;
+    position: absolute;
+    left: 1450px;
+    top: 20;
+}
+.footer-img {
+    z-index: 100;
+  position: absolute;
+  left: 750px;
+    top: 1650px;
+}
+.footer-text {
+    z-index: 100;
+  position: absolute;
+  left: 650px;
+    top: 1700px;
+}
+.list-img {
+    z-index: 100;
+  position: absolute;
+  left: 350px;
+    top: 1100px;
+}
+.footer-content {
+    z-index: 100;
+  position: absolute;
+  left: 0px;
+    top: 1400px;
+}
+.button {
+    z-index: 100;
+  position: absolute;
+  left: 1500px;
+    top: 1500px;
+    height: 30px;
+    width: 100px;
+}
+.hero-pic {
+    height: 500;
+    width: 1400;
+}
